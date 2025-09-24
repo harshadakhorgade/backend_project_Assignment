@@ -1,9 +1,6 @@
 # backend_project_Assignment
 
 
-Perfect 👍 Let’s make your **README.md** clean and professional so you can submit confidently.
-
-Here’s a draft you can put at the root of your project:
 
 ---
 
