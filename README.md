@@ -164,5 +164,19 @@ Open `http://127.0.0.1:8000/` after running the server.
 * [x] README.md with setup instructions
 
 ---
+## 📸 Screenshots  
+
+### 🔐 Authentication (Register & Login)  
+![Login](screenshots/login.png)  
+
+### 📝 Dashboard – User View  
+![User Dashboard](screenshots/user.png)  
+
+### 🛠 Dashboard – Admin View  
+![Admin Dashboard](screenshots/admin.png)  
+
+### 📄 API Documentation (Swagger)  
+![Swagger Docs](screenshots/swagger.png)  
+
 
 
