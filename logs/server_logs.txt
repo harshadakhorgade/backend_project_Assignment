@@ -1,0 +1,9 @@
+[24/Sep/2025 17:20:01] "GET / HTTP/1.1" 200 1234
+[24/Sep/2025 17:20:10] "POST /api/v1/auth/register/ HTTP/1.1" 201 48
+[24/Sep/2025 17:20:12] "POST /api/v1/auth/login/ HTTP/1.1" 200 132
+[24/Sep/2025 17:20:15] "GET /api/v1/tasks/ HTTP/1.1" 200 95
+[24/Sep/2025 17:20:18] "POST /api/v1/tasks/ HTTP/1.1" 201 110
+[24/Sep/2025 17:20:22] "PUT /api/v1/tasks/1/ HTTP/1.1" 200 115
+[24/Sep/2025 17:20:25] "DELETE /api/v1/tasks/1/ HTTP/1.1" 204 0
+[24/Sep/2025 17:20:30] "GET /docs/ HTTP/1.1" 200 5224
+[24/Sep/2025 17:20:35] "GET /redoc/ HTTP/1.1" 200 4300
