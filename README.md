@@ -35,9 +35,6 @@ Features include authentication (JWT), role-based access control, and CRUD opera
 
 
 
-Got it ✅ You don’t need a separate file then — we’ll put the requirements section directly inside your **README.md**.
-
-Here’s a polished template for your assignment README (with requirements included):
 
 ---
 
